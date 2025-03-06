@@ -8,11 +8,10 @@
 
 ### 一）国内GPT
 
-①[givemegpt.top](http://givemegpt.top)-GPT4.0、GPT4o，支持MidJourney绘画
+①[songshugpt.com](http://songshugpt.com)-GPT4.0、GPT4o，支持MidJourney绘画
 
 ②[gptdog.online](http://gptdog.online)
 
-③[songshugpt.com](http://songshugpt.com)
 
 ### 二）国内自研大模型汇总：
 
