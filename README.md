@@ -1,4 +1,4 @@
-# ChatGPT-4o-mirror-国内直接使用｜ChatGPT国内镜像中文网站汇总【25年3月12日更新】
+# ChatGPT-4o-mirror-国内直接使用｜ChatGPT国内镜像中文网站汇总【25年3月15日更新】
 
 ## 一、什么是镜像中文站
 
@@ -8,7 +8,7 @@
 
 ### 一）国内GPT
 
-①[songshugpt.com](https://songshugpt.com)-GPT4.0、GPT4o，支持MidJourney绘画
+①[songshugpt.com](https://songshugpt.com)-GPT4.0、GPT4o、GPT-o3、deepseek、grok3，支持MidJourney绘画
 
 ②[gptdog.online](http://gptdog.online)
 
