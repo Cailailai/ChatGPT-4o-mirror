@@ -1,4 +1,4 @@
-# ChatGPT-4o-mirror-国内直接使用｜ChatGPT国内镜像中文网站汇总【25年4月21日更新】
+# ChatGPT-4o-mirror-国内直接使用｜ChatGPT国内镜像中文网站汇总【25年4月23日更新】
 
 ## 一、什么是镜像中文站
 
